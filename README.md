@@ -1,5 +1,5 @@
 <!--
-**hijosubin/hijosubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hijosubin/hijosubin** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,22 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Soo-Been Jo 🌱
-Ph.D. Student in Immersive Media Engineering at SKKU
+## Research Focus
 
-Exploring multi-view capture, volumetric video, and 3D/4D reconstruction for immersive experiences.
+My research focuses on multi-view capture, volumetric video, and 3D/4D reconstruction for immersive XR experiences.
+
+I am also interested in sparse-view reconstruction and neural rendering, including 3D Gaussian Splatting.
 
 ### Research Interests
-![XR / VR](https://img.shields.io/badge/XR%20%2F%20VR-52796F?style=flat-square)
+
+![XR](https://img.shields.io/badge/XR-52796F?style=flat-square)
 ![Multi-view Capture](https://img.shields.io/badge/Multi--view%20Capture-457B9D?style=flat-square)
+![Sparse-view Reconstruction](https://img.shields.io/badge/Sparse--view%20Reconstruction-637A65?style=flat-square)
 ![Volumetric Video](https://img.shields.io/badge/Volumetric%20Video-7B6D8D?style=flat-square)
-![3D Gaussian Splatting](https://img.shields.io/badge/3D%20Gaussian%20Splatting-D4A373?style=flat-square)
-
-### Featured Project
-📷 [XR-Classroom](https://github.com/hijosubin/XR-Classroom) — A real-world dynamic multi-view classroom dataset captured with heterogeneous RGB cameras.
-
-### Connect
-[ORCID](https://orcid.org/0009-0005-3727-2979) · [Lab](https://imclab.skku.edu/)
-
----
-🍀 All is well, always.
+![Neural Rendering](https://img.shields.io/badge/Neural%20Rendering-B58A5E?style=flat-square)
+![3D Gaussian Splatting](https://img.shields.io/badge/3D%20Gaussian%20Splatting-668DA6?style=flat-square)
